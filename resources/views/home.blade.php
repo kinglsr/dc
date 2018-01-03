@@ -142,13 +142,13 @@
             <p><a class="btn red-mint btn-outline sbold uppercase btn-sm" target="_blank" href="<?= url('study') ?>" role="button">View details »</a></p>
           </div><!-- /.col-lg-4 -->
           <div class="col-lg-4">
-            <img class="img-circle" src="{{ asset('img/work.jpg') }}" alt="Generic placeholder image" width="140" height="140">
+            <img class="img-circle" src="{{ asset('img/work.JPG') }}" alt="Generic placeholder image" width="140" height="140">
             <h2>Work</h2>
             <p>Easy way to enter into canada.</p>
             <p><a class="btn red-mint btn-outline sbold uppercase btn-sm" target="_blank" href="<?= url('work') ?>" role="button">View details »</a></p>
           </div><!-- /.col-lg-4 -->
           <div class="col-lg-4">
-            <img class="img-circle" src="{{ asset('img/business.jpg') }}" alt="Generic placeholder image" width="140" height="140">
+            <img class="img-circle" src="{{ asset('img/business.JPG') }}" alt="Generic placeholder image" width="140" height="140">
             <h2>Business</h2>
             <p>Good oppurtunities for business</p>
             <p><a class="btn red-mint btn-outline sbold uppercase btn-sm" target="_blank" href="<?= url('business') ?>" role="button">View details »</a></p>
