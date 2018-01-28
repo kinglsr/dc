@@ -37,8 +37,8 @@
             <div class="item slide3">
                 <div class="row"><div class="container">
                     <div class="col-md-7 text-left">
-                        <h3 data-animation="animated bounceInDown">Study towards</h3>
-                        <h4 data-animation="animated bounceInUp">Permanent Residency</h4>
+                        <h3 data-animation="animated bounceInDown">Spot For</h3>
+                        <h4 data-animation="animated bounceInUp">World Class Education</h4>
                      </div>
                     <div class="col-md-5 text-right">
                         <img style="max-width: 400px;"  data-animation="animated zoomInLeft" src="{{ asset('img/studycircle.jpg') }}">
@@ -49,8 +49,8 @@
             <div class="item slide4">
                 <div class="row"><div class="container">
                     <div class="col-md-7 text-left">
-                        <h3 data-animation="animated bounceInDown">We are creative</h3>
-                        <h4 data-animation="animated bounceInUp"> Call US</h4>
+                        <h3 data-animation="animated bounceInDown">Dream Big</h3>
+                        <h4 data-animation="animated bounceInUp"> Embrace Canada</h4>
                      </div>
                     <div class="col-md-5 text-right">
                         <img style="max-width: 200px;"  data-animation="animated zoomInLeft" src="{{ asset('img/prcircle.jpg') }}">
@@ -145,7 +145,7 @@
             <p><a class="btn red-mint btn-outline sbold uppercase btn-sm" target="_blank" href="<?= url('work') ?>" role="button">View details »</a></p>
           </div><!-- /.col-lg-4 -->
           <div class="col-lg-4">
-            <img class="img-circle" src="{{ asset('img/pr.jpg') }}" alt="Generic placeholder image" width="140" height="140">
+            <img class="img-circle" src="{{ asset('img/pr.JPG') }}" alt="Generic placeholder image" width="140" height="140">
             <h2>Permanent Residence</h2>
             <p>Settle in Canada</p>
             <p><a class="btn red-mint btn-outline sbold uppercase btn-sm" target="_blank" href="<?= url('pr') ?>" role="button">View details »</a></p>
