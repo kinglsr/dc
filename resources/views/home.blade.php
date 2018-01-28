@@ -25,7 +25,7 @@
             <div class="item slide2">
                 <div class="row"><div class="container">
                     <div class="col-md-7 text-left">
-                        <h3 data-animation="animated bounceInDown"> Change your family's future</h3>
+                        <h3 data-animation="animated bounceInDown"> Change your future</h3>
                         <h4 data-animation="animated bounceInUp"> By finding the right path</h4>
                      </div>
                     <div class="col-md-5 text-right">
@@ -145,17 +145,10 @@
             <p><a class="btn red-mint btn-outline sbold uppercase btn-sm" target="_blank" href="<?= url('work') ?>" role="button">View details »</a></p>
           </div><!-- /.col-lg-4 -->
           <div class="col-lg-4">
-<<<<<<< HEAD
             <img class="img-circle" src="{{ asset('img/pr.jpg') }}" alt="Generic placeholder image" width="140" height="140">
             <h2>Permanent Residence</h2>
             <p>Settle in Canada</p>
             <p><a class="btn red-mint btn-outline sbold uppercase btn-sm" target="_blank" href="<?= url('pr') ?>" role="button">View details »</a></p>
-=======
-            <img class="img-circle" src="{{ asset('img/business.JPG') }}" alt="Generic placeholder image" width="140" height="140">
-            <h2>Business</h2>
-            <p>Good oppurtunities for business</p>
-            <p><a class="btn red-mint btn-outline sbold uppercase btn-sm" target="_blank" href="<?= url('business') ?>" role="button">View details »</a></p>
->>>>>>> a739bec06d1f4fe96331316a98af4119652e457b
           </div><!-- /.col-lg-4 -->
         </div>
 
