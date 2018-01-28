@@ -121,7 +121,7 @@
                     </div>
                     <div class="card-desc">
                         <span> aaaaaaaaaa
-                            <br> aaaaaaaaaaa </span>
+                            <br> aaaaaaaaaaa fnajdnajdaw</span>
                     </div>
                 </div>
             </div>
