@@ -25,7 +25,7 @@ Route::get('/work', function () {
     return view('work');
 });
 
-Route::get('/business', function () {
-    return view('business');
+Route::get('/pr', function () {
+    return view('pr');
 });
-Route::post('/newRegistration','UserController@newRegistration');
+//Route::post('/newRegistration','UserController@newRegistration');
