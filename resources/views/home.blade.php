@@ -77,6 +77,12 @@
 
         <div class="row about-header">
             <div class="col-md-12 col-sm-12">
+              <br>
+              <br>
+              <br>
+                            <br>
+              <br>
+              <br>
                 <h2> Dreams Canada LLC is a consulting firm, providing solutions & guidance for education , work permit, Visitor Visa & Permanent residence processing platform for the aspiring.  It is our goal to provide knowledge based guidance to achieve your goals.
 
                 Our Promoters are professionals, who are living abroad and have over a decade of experience in overseas consulting</h2>
@@ -102,7 +108,7 @@
           </div><!-- /.col-lg-4 -->
           <div class="col-lg-4">
             <img class="img-circle" src="{{ asset('img/pr.JPG') }}" alt="Generic placeholder image" width="140" height="140">
-            <h2>Permanent Residence</h2>
+            <h2>Permanent Residency</h2>
             <p>Settle in Canada</p>
             <p><a class="btn red-mint btn-outline sbold uppercase btn-sm" target="_blank" href="<?= url('pr') ?>" role="button">View details »</a></p>
           </div><!-- /.col-lg-4 -->
@@ -271,7 +277,7 @@ Its between 11000 to 16000 on an average. Canadian education costs are relativel
                       <div class="c-line-left bg-dark"></div>
                       <p class="c-font-lowercase">Our helpline is always open to receive any inquiry or feedback. Please feel free to drop us an email from the form below and we will get back to you as soon as we can.</p>
                   </div>
-                  <form action="#">
+                    <form action="mailto:pavankumar2ca@gmail.com" method="post" enctype="text/plain">
                       <div class="form-group">
                           <input type="text" placeholder="Your Name" class="form-control input-md"> </div>
                       <div class="form-group">
@@ -281,7 +287,7 @@ Its between 11000 to 16000 on an average. Canadian education costs are relativel
                       <div class="form-group">
                           <textarea rows="8" name="message" placeholder="Write comment here ..." class="form-control input-md"></textarea>
                       </div>
-                      <button type="submit" class="btn red-mint btn-outline sbold uppercase btn-lg">Submit</button>
+                      <button type="submit" class="btn red-mint btn-outline sbold uppercase btn-lg" >Submit</button>
                   </form>
               </div>
           </div>
