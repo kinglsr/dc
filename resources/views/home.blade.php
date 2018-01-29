@@ -77,7 +77,6 @@
 
         <div class="row about-header">
             <div class="col-md-12 col-sm-12">
-                <h1>About Us</h1>
                 <h2> Dreams Canada LLC is a consulting firm, providing solutions & guidance for education , work permit, Visitor Visa & Permanent residence processing platform for the aspiring.  It is our goal to provide knowledge based guidance to achieve your goals.
 
                 Our Promoters are professionals, who are living abroad and have over a decade of experience in overseas consulting</h2>
