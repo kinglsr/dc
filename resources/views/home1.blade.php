@@ -159,7 +159,51 @@
           </div><!-- /.col-lg-4 -->
         </div>
 
-        
+        <div class="row">
+            <div class="col-lg-4 col-md-4">
+                <div class="portlet light">
+                    <div class="card-icon">
+                        <i class="icon-user-follow font-red-sunglo theme-font"></i>
+                    </div>
+                    <div class="card-title">
+                        <h2> Best Customer Expierence </h2>
+                    </div>
+                    <div class="card-desc">
+                        <span> saaaaaaaa
+                            <br>ssssssssssssss </span>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-4">
+                <div class="portlet light">
+                    <div class="card-icon">
+                        <i class="icon-trophy font-green-haze theme-font"></i>
+                    </div>
+                    <div class="card-title">
+                        <h2> Awards Winner </h2>
+                    </div>
+                    <div class="card-desc">
+                        <span> aaaaaaaaaaaaaaaa
+                            <br> aaaaaaaaaaaaaa</span>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-4">
+                <div class="portlet light">
+                    <div class="card-icon">
+                        <i class="icon-basket font-purple-wisteria theme-font"></i>
+                    </div>
+                    <div class="card-title">
+                        <h2> Call us For Free Consultation </h2>
+                    </div>
+                    <div class="card-desc">
+                        <span> aaaaaaaaaa
+                            <br> aaaaaaaaaaa </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+      </div>
 
       <!-- START THE FEATURETTES -->
 

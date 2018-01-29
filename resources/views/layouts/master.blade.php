@@ -33,8 +33,8 @@
         <li class="active"><a href="<?= url('') ?>" id="home">Home</a></li>
         <li><a href="#about" id="about">About US</a></li>
         <li><a href="#immigration" id="immigration">Immigration</a></li>
+        <li><a href="#fqa" id="fqa">FQA</a></li>
         <li><a href="#contact" id="contact">Contact US</a></li>
-        <li><a href="" id="register" id="register">Register</a></li>
       </ul>
     </div><!--/.nav-collapse -->
   </div>
@@ -166,9 +166,9 @@ $(function(){
         }, 1200);
     });
 
-    $("#plans").click(function() {
+    $("#fqa").click(function() {
         $('html, body').animate({
-            scrollTop: $("#plans-section").offset().top - 80
+            scrollTop: $("#fqa-section").offset().top - 80
         }, 1200);
     });
 
