@@ -80,7 +80,7 @@
               <br>
               <br>
               <br>
-                            <br>
+              <br>
               <br>
               <br>
                 <h2> Dreams Canada LLC is a consulting firm, providing solutions & guidance for education , work permit, Visitor Visa & Permanent residence processing platform for the aspiring.  It is our goal to provide knowledge based guidance to achieve your goals.
@@ -115,132 +115,50 @@
         </div>
 
       <div class="fqa-section section-div" id="fqa-section">
-            <h1> Why study in Canada </h1>
-
-Studying in Canada would be a beautiful experience for anyone, literally, since Canada is ranked as the BEST PLACE in the world to LIVE. Because of its access to education, high life expectancy and low crime rates, Canada is a very attractive destination for students through out the world.
-
-
-
-What is the official language?
-
-Canada is a bilingual country with two official languages - English and French. Most of the French-speaking inhabitants live in Quebec. However, almost all non-Quebec based universities offer education instruction in English only.
-
-
-
-What is Student Partners Program?
-
-The Student Partners Program (SPP) is an administrative framework designed and implemented in partnership between the Canadian visa offices in India and the Association of Canadian Community Colleges (ACCC). The SPP was launched in April 2009 as a pilot to improve student recruitment outcomes. Due to the improvement achieved during the pilot, the program is being extended and expanded in 2010.
-
-
-
-What is the IELTS requirement?
-
-It differs from institution to institution but the minimum requirement is 6.0 and not less than 5.0 in each individual band.
-
-
-
-What is the academic entry requirement?
-
-It differs from institution to institution but the minimum is 50%
-
-
-
-What are the intakes?
-
-There are majorly 2 intakes September and Jan.
-
-
-
-What type of institutions are their?
-
-There are more than 175 post-secondary institutions that offer various programs such as Certificate, Diploma and Bachelor's, including vocational and adult-education. These institutions are known as Community colleges, Technical Institute, University College and Universities. All these colleges are members of the Association of Canadian Community colleges.
-
-
-
-What is the duration of the program offered?
-
-Undergraduate programs are of 4 years duration, except in Ontario, where there is three-year Bachelor degrees and three-year Master's degrees. In the other parts of Canada, post-graduate programs (Master's) are of two years duration.
-
-
-
-What is the currency used and INR equivalent?
-
-Canadian Dollar 1CAD$ is equivalent to Rs.45 approximately.
-
-
-
-What is the living expense?
-
-Canada would be between CAN $ 8,000-12,000, depending upon the location of their residence
-
-
-
-What type of accommodation is available for the students?
-
-Students have a number of options available that can be on-campus or off-campus such as hostels, rented housing, home stay etc.
-
-
-
-Can student go for a part time job?
-
-Yes but only after 6 months of studies with the permission of the institution.
-
-
-
-What are the job opportunities?
-
-Students are allowed to work only on campus. Though they can work off campus if are enrolled in co-op program.
-
-
-
-Can I take my spouse along?
-
-Spouse can accompany on visitor visa.
-
-
-
-Can I take my children as a dependent?
-
-Yes, can join on visitor visa later on.
-
-
-
-Is 15 years education is acceptable in Canada?
-
-Canada follows 16 years of education so if a student wishes to enroll for Masters he/she has to do one year Post graduate diploma.
-
-
-
-Do I have to go under any Medical Test?
-
-Yes at the time of visa application.
-
-
-
-Do I have to get a Police Verification Certificate?
-
-It depends on the institution. Some of the courses like Early Childhood, Nursing program there is requirement of Police Verification Certificate
-
-
-
-Is there any application fee?
-
-Yes, it varies between CAD$ 50-250. Some of the institutions do not charge admission fee.
-
-
-
-Do I have to pay fee before the visa?
-
-Yes at least first semester fee is to be paid before the visa.
-
-
-
-What is the range of the course fee for UG and PG?
-
-Its between 11000 to 16000 on an average. Canadian education costs are relatively cheaper than US and other countries - by at least 30%. Coupled with its low cost of living, Canada is one of the best destinations for international students.
-
- </h1>
-      </div>
+        <h1 class="section-title wow fadeInUp"><span>FAQS</span></h1>
+          <div class="alert alert-success" role="alert">
+           <strong> Why study in Canada?</strong>
+           <p> Studying in Canada would be a beautiful experience for anyone, literally, since Canada is ranked as the BEST PLACE in the world to LIVE. Because of its access to education, high life expectancy and low crime rates, Canada is a very attractive destination for students through out the world. </p>
+          </div>
+        <br>
+           <strong>What is the official language?</strong>
+           <p> Canada is a bilingual country with two official languages - English and French. Most of the French-speaking inhabitants live in Quebec. However, almost all non-Quebec based universities offer education instruction in English only.</p>
+          <div class="alert alert-success" role="alert">
+            <strong> What is Student Partners Program?</strong>
+           <p> The Student Partners Program (SPP) is an administrative framework designed and implemented in partnership between the Canadian visa offices in India and the Association of Canadian Community Colleges (ACCC). The SPP was launched in April 2009 as a pilot to improve student recruitment outcomes. Due to the improvement achieved during the pilot, the program is being extended and expanded in 2010. </p>
+          </div>
+          <br>
+          <strong>What is the IELTS requirement?</strong>
+           <p> It differs from institution to institution but the minimum requirement is 6.0 and not less than 5.0 in each individual band with minimum 50% of academic mark </p>
+          <br>
+          <div class="alert alert-success" role="alert">
+            <strong> What type of institutions are their?</strong>
+           <p>There are more than 175 post-secondary institutions that offer various programs such as Certificate, Diploma and Bachelor's, including vocational and adult-education. These institutions are known as Community colleges, Technical Institute, University College and Universities. All these colleges are members of the Association of Canadian Community colleges.</p>
+          </div>
+          <br>
+          <strong>What is the duration of the program offered?</strong>
+           <p>Undergraduate programs are of 4 years duration, except in Ontario, where there is three-year Bachelor degrees and three-year Master's degrees. In the other parts of Canada, post-graduate programs (Master's) are of two years duration.</p>
+          <br>
+          <div class="alert alert-success" role="alert">
+            <strong>What is the currency used and INR equivalent?</strong>
+            <p> Canadian Dollar 1CAD$ is equivalent to Rs.45 approximately.</p>
+          </div>          
+          <br>
+          <strong>What is the living expense?</strong>
+           <p>Canada would be between CAN $ 8,000-12,000, depending upon the location of their residence</p>
+          <br>
+          <div class="alert alert-success" role="alert">
+            <strong>What type of accommodation is available for the students?</strong>
+            <p>Students have a number of options available that can be on-campus or off-campus such as hostels, rented housing, home stay etc.</p>
+          </div>
+          <strong>Can student go for a part time job?</strong>
+           <p>Yes but only after 6 months of studies with the permission of the institution.</p>
+          <br>
+          <div class="alert alert-warning" role="alert">
+          <strong>Do I have to pay fee before the visa?</strong>
+          <p>Yes at least first semester fee is to be paid before the visa.</p>
+          </div>
+        </div>
 
       <!-- START THE FEATURETTES -->
 
@@ -278,6 +196,7 @@ Its between 11000 to 16000 on an average. Canadian education costs are relativel
                       <p class="c-font-lowercase">Our helpline is always open to receive any inquiry or feedback. Please feel free to drop us an email from the form below and we will get back to you as soon as we can.</p>
                   </div>
                     <form action="mailto:pavankumar2ca@gmail.com" method="post" enctype="text/plain">
+                      
                       <div class="form-group">
                           <input type="text" placeholder="Your Name" class="form-control input-md"> </div>
                       <div class="form-group">
