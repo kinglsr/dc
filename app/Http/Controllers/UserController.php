@@ -23,6 +23,17 @@ class UserController extends Controller
         
         return response()->json(['status'=>$status]);
     }
-
+    public function newMessage(Request $request) 
+    { 
+        $sender = [];
+        $sender['name'] = $request->name;
+        $sender['email'] = $request->email;
+        $sender['contact'] = $request->contact;
+        $sender['message'] = $request->message;
+        $mailTo = 'pavankumar2ca@gmail.com';
+        if(Mail::to($mailTo)->send(new NewMessage($sender))) {
+            Log::write("message_test",print_r("success",true));
+        }
+    }
 }
 
